@@ -9,3 +9,17 @@ header.banner{
     background-size:cover;
     height: 100vh;
 }
+header.banner .banner-subheading {
+    font-size: 3rem;
+    font-style: italic;
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+    font-family: "Roboto slab"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header.banner .banner-heading {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+    font-family: "Montserrat" 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
