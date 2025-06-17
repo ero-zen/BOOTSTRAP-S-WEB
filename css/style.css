@@ -4,8 +4,8 @@ header.banner {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #0c0101;
-    background-image: url("../images/img/bady-abbas-jOmBUCtflWA-unsplash.jpg");
+    color: #96ce25;
+    background-image: url("../images/img/header-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -19,17 +19,17 @@ header.banner {
     font-style: italic;
     margin-bottom: 25px;
     font-family: "Roboto Slab", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(77, 76, 75);
+    color: rgb(255, 255, 255);
     margin-top: -60px;
 }
 
 .banner-heading {
     font-size: 3.5rem;
-    font-weight: 700;
+    font-weight: 700;   
     line-height: 3.25rem;
     margin-bottom: 6rem;
     font-family: "Montserrat", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(77, 76, 75);
+    color: rgb(255, 255, 255);
 }
 
 .btn {
@@ -50,7 +50,7 @@ header.banner {
 
 
 #mainnav .navbar-nav .nav-link {
-    color: #181818 ;
+    color: #ffffff ;
     opacity: 1 ;
     font-weight: 600;
     transition: color 0.3s ease;
